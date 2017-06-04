@@ -1,0 +1,23 @@
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.ServerForm.resources
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.Properties.Resources.resources
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.csproj.GenerateResource.Cache
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+G:\Cooder\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+G:\Cooder\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+G:\Cooder\UdpSocketServer\SocketServer\bin\Debug\SocketServer.exe
+G:\Cooder\UdpSocketServer\SocketServer\bin\Debug\SocketServer.pdb
+G:\Cooder\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.csprojResolveAssemblyReference.cache
+G:\Cooder\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.ServerForm.resources
+G:\Cooder\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.Properties.Resources.resources
+G:\Cooder\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.exe
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.pdb
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.ServerForm.resources
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UdpSocketServer\SocketServer\obj\x86\Debug\SocketServer.csproj.GenerateResource.Cache

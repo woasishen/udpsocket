@@ -1,0 +1,20 @@
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.exe
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\bin\Debug\SocketClient.pdb
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\obj\x86\Debug\SocketClient.Properties.Resources.resources
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\obj\x86\Debug\SocketClient.csproj.GenerateResource.Cache
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\obj\x86\Debug\SocketClient.exe
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\obj\x86\Debug\SocketClient.pdb
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\obj\x86\Debug\SocketClient.ClientForm.resources
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\bin\Debug\SocketServer.exe
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\bin\Debug\SocketServer.pdb
+c:\users\cifangyang\documents\visual studio 2010\Projects\SocketServer\SocketClient\obj\x86\Debug\SocketClient.csprojResolveAssemblyReference.cache
+G:\Cooder\UdpSocketServer\SocketClient\bin\Debug\SocketClient.exe
+G:\Cooder\UdpSocketServer\SocketClient\bin\Debug\SocketClient.pdb
+G:\Cooder\UdpSocketServer\SocketClient\bin\Debug\SocketServer.exe
+G:\Cooder\UdpSocketServer\SocketClient\bin\Debug\SocketServer.pdb
+G:\Cooder\UdpSocketServer\SocketClient\obj\x86\Debug\SocketClient.csprojResolveAssemblyReference.cache
+G:\Cooder\UdpSocketServer\SocketClient\obj\x86\Debug\SocketClient.ClientForm.resources
+G:\Cooder\UdpSocketServer\SocketClient\obj\x86\Debug\SocketClient.Properties.Resources.resources
+G:\Cooder\UdpSocketServer\SocketClient\obj\x86\Debug\SocketClient.csproj.GenerateResource.Cache
+G:\Cooder\UdpSocketServer\SocketClient\obj\x86\Debug\SocketClient.exe
+G:\Cooder\UdpSocketServer\SocketClient\obj\x86\Debug\SocketClient.pdb
